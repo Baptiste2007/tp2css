@@ -1,7 +1,7 @@
 div {
 	text-align:center;
 	}
-    div#bandeau {
+div#bandeau {
 	width:600px;
 	height:50px;
 	background-color:#00CCFF;
@@ -10,9 +10,19 @@ div#contenu {
 	width:600px;
 	height:400px;
 	background-color:#FFCC00;
-	}
+    float:left;
+	clear:both;
+}
 div#piedpage {
+	clear:both;
 	width:600px;
 	height:50px;
 	background-color:#33FF99;
 	}
+    div#menu {
+	float:left;
+	width:100px;
+	height:400px;
+	background-color:#FF6699;
+	}
+	
