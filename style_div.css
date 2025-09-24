@@ -3,13 +3,13 @@ div {
 }
 
 div#bandeau {
-	width: 600px;
+	width: 1000px;
 	height: 50px;
 	background-color: #00CCFF;
 }
 
 div#contenu {
-	width: 500px;
+	width: 900px;
 	height: 400px;
 	background-color: #FFCC00;
 	float: left;
@@ -20,10 +20,24 @@ div#contenu {
 		height: 150px;
 		background-color: #FF3300;
 	}
+	.texte-bleu {
+  color: blue;
+  font-size: 20px;
+}
+
+.phraserouge {
+color:#FF3300;
+font-size: 30px;
+}
+.phrasebleu {
+	color:blue;
+	font-size: 20px;
+}
+
 }
 
 div#piedpage {
-	width: 600px;
+	width: 1000px;
 	height: 50px;
 	background-color: #33FF99;
 	clear: both;
@@ -47,3 +61,4 @@ div#menu {
 		background-color: #CC99CC;
 	}
 }
+
