@@ -38,13 +38,15 @@ div#contenu {
 	.separation {
 		color: #fc0909;
 	}
-.bleuT {
-	color:blue;
-}
-.vertT{
-	color: #66CC33;
-	font-size: 15px;
-}
+
+	.bleuT {
+		color: blue;
+	}
+
+	.vertT {
+		color: #66CC33;
+		font-size: 15px;
+	}
 
 	div#blocnews {
 		float: right;
