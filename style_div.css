@@ -1,62 +1,83 @@
 div {
-	text-align:center;
-	}
+	text-align: center;
+}
 
-	div#bandeau {
-	width:900px;
-	height:100px;
-	background-color:#00CCFF;
-	}
+table,
+th,
+td {
+	border: 1px solid #fc0909
+}
+
+div#bandeau {
+	width: 900px;
+	height: 100px;
+	background-color: #00CCFF;
+}
+
 div#contenu {
-	width:800px;
-	height:700px;
-	background-color:#FFCC00;
-	float:left;
-.phrasebleu {
-color:blue;
-font-size: 20px;
-}
-.phraserouge {
-color:#FF3300;
-font-size: 30px;
-}
-.phrasebleu2 {
-    color:blue;
-    font-size: 20px;
-}
+	width: 800px;
+	height: 700px;
+	background-color: #FFCC00;
+	float: left;
 
+	.phrasebleu {
+		color: blue;
+		font-size: 20px;
+	}
+
+	.phraserouge {
+		color: #FF3300;
+		font-size: 30px;
+	}
+
+	.phrasebleu2 {
+		color: blue;
+		font-size: 20px;
+	}
+
+	.separation {
+		color: #fc0909;
+	}
+.bleuT {
+	color:blue;
+}
+.vertT{
+	color: #66CC33;
+	font-size: 15px;
+}
 
 	div#blocnews {
-	float:right;
-	width:150px;
-	height:150px;
-	background-color:#FF3300;
+		float: right;
+		width: 150px;
+		height: 150px;
+		background-color: #FF3300;
 	}
 
 }
+
 div#piedpage {
-	width:900px;
-	height:100px;
-	background-color:#33FF99;
-	clear:both;
+	width: 900px;
+	height: 100px;
+	background-color: #33FF99;
+	clear: both;
 }
-	
-	
-	div#menu {
-	float:left;
-	width:100px;
-	height:400px;
-	background-color:#FF6699;
+
+
+div#menu {
+	float: left;
+	width: 100px;
+	height: 400px;
+	background-color: #FF6699;
+
 	div#menuhaut {
-	width:100px;
-	height:400px;
-	background-color:#66CC33;
-	}
-div#menubas {
-	width:100px;
-	height:400px;
-	background-color:#CC99CC;
+		width: 100px;
+		height: 400px;
+		background-color: #66CC33;
 	}
 
+	div#menubas {
+		width: 100px;
+		height: 400px;
+		background-color: #CC99CC;
+	}
 }
-
